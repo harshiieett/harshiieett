@@ -2,9 +2,9 @@
 
 # Harshit Tahalani
 
-**Data Scientist · ML Engineer · Builder**
+**Data Analyst · Learner · Builder**
 
-*I build models that are measured, not just shipped — and businesses on the same principle.*
+*I build models that are measured, not just shipped and businesses on the same principle.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-tahalani/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshittahalani@gmail.com)
@@ -16,7 +16,7 @@
 
 ## Who I Am
 
-M.Sc Data Science student at Banaras Hindu University with a habit of building things that hold up when you actually measure them. On the technical side: deep learning models, dashboards, and applied GenAI. On the side: building my own venture with a real finance lens — stock market analysis, Tally, and the belief that data scientists who understand business make better decisions than those who don't.
+M.Sc Data Science student at Banaras Hindu University with a habit of building things that hold up when you actually measure them. On the technical side: deep learning models, dashboards, and applied GenAI. On the side: building my own venture with a real finance lens | stock market analysis, Tally, and the belief that data scientists who understand business make better decisions than those who don't.
 
 ---
 
@@ -24,7 +24,7 @@ M.Sc Data Science student at Banaras Hindu University with a habit of building t
 
 - 🌧️ Spatiotemporal rainfall forecasting using CNN + LSTM on 73 years of IMD data
 - 🤖 Exploring agentic GenAI workflows and RAG pipelines (OCI GenAI certified)
-- 🏗️ Building and iterating on my own venture — data-informed from day one
+- 🏗️ Building and iterating on my own venture
 
 ## 🧠 What I Know Well
 
@@ -48,16 +48,7 @@ M.Sc Data Science student at Banaras Hindu University with a habit of building t
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshiieett&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshiieett&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🚀 Projects
 
@@ -72,6 +63,6 @@ M.Sc Data Science student at Banaras Hindu University with a habit of building t
 
 <div align="center">
 
-*Open to Data Science, ML, and Analytics roles — internships or full-time.*
+*Open to Data Science, ML, and Analytics roles internships or full-time.*
 
 </div>
